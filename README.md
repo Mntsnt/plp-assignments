@@ -27,4 +27,4 @@ See [assignment-2/README.md](assignment-2/README.md) for details.
 2. Follow the instructions in the respective `README.md` file to run the code.
 
 ---
-This repository will be updated with more assignments as the
+This repository will be updated with more assignments as the course progresses.
