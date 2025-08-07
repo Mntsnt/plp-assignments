@@ -1,4 +1,6 @@
-# Assignment: Create a basic calculator program
+# PLP
+# Week 1
+# Assignment 1: Create a basic calculator program
 # Basic Calculator Program
 
 # Ask the user to input two numbers
