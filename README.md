@@ -26,5 +26,17 @@ See [assignment-2/README.md](assignment-2/README.md) for details.
 1. Navigate to the assignment directory.
 2. Follow the instructions in the respective `README.md` file to run the code.
 
+
+### Assignment 3: Discount Calculator
+
+A python program that calculates discount of a given price. See [assignment-3/README.md](assignment-3/README.md) for details.
+
+
+## How to Use
+
+1. Navigate to the assignment directory.
+2. Follow the instructions in the respective `README.md` file to run the code.
+
+
 ---
 This repository will be updated with more assignments as the course progresses.
