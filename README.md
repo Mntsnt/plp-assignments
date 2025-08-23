@@ -31,6 +31,9 @@ See [assignment-2/README.md](assignment-2/README.md) for details.
 
 A python program that calculates discount of a given price. See [assignment-3/README.md](assignment-3/README.md) for details.
 
+### Assignment 4: File Operations
+This Python program reads the content of a specified text file. It first reads 'gospel.txt' and displays its content, then prompts the user to enter another filename and safely reads that file, handling errors if the file does not exist or cannot be accessed.
+
 
 ## How to Use
 
