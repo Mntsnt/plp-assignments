@@ -43,3 +43,29 @@ This Python program reads the content of a specified text file. It first reads '
 
 ---
 This repository will be updated with more assignments as the course progresses.
+
+
+## Assignment 5: OOP Practice
+
+This Python program demonstrates key Object-Oriented Programming (OOP) concepts. It includes two main parts:
+
+1. **Assignment 1: Smartphone Class**  
+   - A `Smartphone` class that inherits from a `Device` class.  
+   - Demonstrates constructors, inheritance, and encapsulation.  
+   - Allows creating smartphone objects, checking battery level, using the phone, and charging it.
+
+2. **Activity 2: Polymorphism Challenge**  
+   - Defines an `Animal` base class and subclasses `Dog`, `Fish`, and `Bird`.  
+   - Each subclass implements the `move()` method differently to demonstrate polymorphism.
+
+The program features a simple **menu** so users can run either part separately or both together.
+
+---
+
+## How to Use
+
+1. Navigate to the assignment directory.
+2. Run the program using:
+```bash
+python oop_assignment1.py
+
